@@ -2,7 +2,7 @@ Readiness Simulation — Demonstration Prototype
 
 A working discrete-time queueing simulation of an end-to-end mobilization pipeline, built by CollectIQ Technologies LLC as a capability demonstration in support of RFQ 90MC26Q0005, Readiness Simulation (RS) for the Selective Service System.
 
-Live prototype: (add deployed URL here)
+Live prototype: (collectiq-readiness-sim.netlify.app)
 
 What this is
 
